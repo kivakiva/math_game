@@ -1,4 +1,3 @@
-# require './prompt'
 require'./state'
 
 newGame = State.new
